@@ -1,0 +1,1 @@
+This is a console application that outputs the current network usage speed with the current time every 1 second, in a new line. It takes an optional parameter so you can define the wait time in seconds. Default wait time is 1 second.
